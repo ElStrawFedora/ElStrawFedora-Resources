@@ -5,7 +5,17 @@ Thank you for choosing to play with us!
 Below is listed a comprehensive breakdown of how games produced by ElStrawFedora are used on your personal device.
 Privacy is very important to me, and so my games are designed with as minimal obstruction of personal information as possible.
 Please find our policies per game below.
+## Alien Parkour
+---
 
+
+* **Monetization:** Alien Parkour is a completely free game available on multiple platforms, such as Steam and the Google Play Store, free of ads or in-app purchases. As such, no information pertaining to payment or user accounts is taken.
+* **Self-Identifying Information:** All user accounts in Alien Parkour are created completely internally, so no sign ups are required, or providing of personal information required to create a user profile. However, players are free to use their real names when making a username; however, this is not requested or encouraged by the game.
+* **Analytics:** This app does not track any device usage data.
+* **Online Communication:** The online functionality in this game is used solely for the purposes of realtime in-game interactions, and in no way reflects the identifying data of the player. 
+* **Harassment or Harmful Content:** Alien Parkour is a family friendly game, and as such, the game's content is free of any rude or disparaging messages, images, or sounds. In addition, while users cannot communicate via text in-game, they may display personalized usernames; however, Alien Parkour has swear filtering enabled to prevent inappropriate usernames.
+
+---
 ## Pixelitos 
 ---
 
